@@ -3,8 +3,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.xfyun.platform.rmq.common</groupId>
-	<artifactId>xfyun-platform-rmq-commom</artifactId>
+	<groupId>com.boot.rmq.common</groupId>
+	<artifactId>boot-rmq-commom</artifactId>
 	<version>0.0.1</version>
 	<name>rocketmq接入帮助类</name>
 
@@ -63,7 +63,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>xfyun-platform-rmq-commom</finalName>
+		<finalName>boot-rmq-commom</finalName>
 		<plugins>
 			<!-- spring-boot-maven-plugin (提供了直接运行项目的插件：如果是通过parent方式继承spring-boot-starter-parent则不用此插件) -->
 			<plugin>
