@@ -3,17 +3,6 @@ Open Source Spring Boot Starter for Apache RocketMQ, develop with RocketMQ easil
 
 ## Quick Start
 
-### Maven Dependency
-
-```xml
-
-    <dependency>
-        <groupId>com.boot.rmq.common</groupId>
-	    <artifactId>boot-rmq-commom</artifactId>
-        <version>0.0.1</version>
-    </dependency>
-
-```
 ### Configuration
 
 You just need to add a few configurations on `application.properties`, configurations are like as follows:
